@@ -1,5 +1,6 @@
 # KurdishNamedEntities
 A dataset of various types of Kurdish Named Entities
+
 The dataset was collectedy by: Sazan Salr Namiq
 
 A summary of the dataset is given by the following short paper. Please cite the paper when refere/use the deataset.
